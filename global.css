@@ -1,0 +1,23 @@
+body {
+  max-width: 50rem;
+  margin: auto;
+  background-color: rgb(43, 42, 51);
+  color: antiquewhite;
+}
+code {
+  font-family: Consolas, "courier new";
+  color:whitesmoke;
+  background-color: rgb(57, 56, 66);
+  padding: 2px;
+  border-radius: 5px;
+}
+a:link,
+a:visited {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
